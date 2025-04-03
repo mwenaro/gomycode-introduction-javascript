@@ -68,8 +68,13 @@ console.log(true || false)
 console.log(false || true)
 console.log(false || false)
 */
+console.log("5  + 2  is " + (5 + 2))
 
+let fname = 'Mwero', lname = 'Abdalla'
+let fullName = fname + lname
+console.log(fname + ' ' + lname)
 
+console.log(fullName)
 
 
 
