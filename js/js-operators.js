@@ -1,5 +1,5 @@
 // operators
-let x = 5, y = 2;
+let x = 5, y = 2, w = 10, z = 2;
 /*
     1. Arithmetic  
         - + addtion
@@ -17,7 +17,7 @@ let x = 5, y = 2;
         console.log(x + " % "+ y + " = " + (x % y))
         console.log(x + " ** "+ y + " = " + (x ** y))
 
-    2. comparison ops
+     2. comparison ops
             - ==
             - ===
             - >
@@ -47,9 +47,27 @@ let x = 5, y = 2;
       x /= 1 // x = x / 1 
       x **= 1 // x = x ** 1 
 
+    4. logical ops
+         - and &&
+         - or ||
+         - not !
+
+// Examples
+    console.log(x + " !== "+ y + " = " + (x !== y))
+    console.log(x + " > "+ y + " = " + !(x > y))
+
+    // And
+console.log(true && true)
+console.log(true && false)
+console.log(false && true)
+console.log(false && false)
+
+//or
+console.log(true || true)
+console.log(true || false)
+console.log(false || true)
+console.log(false || false)
 */
-
-
 
 
 
