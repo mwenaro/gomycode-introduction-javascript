@@ -52,3 +52,7 @@ function area(len, wid = 0) {
 }
 
 console.log(area(10, 3));
+
+//similarities
+//  - const/let
+//  1. blocked scoped
