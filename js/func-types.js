@@ -14,7 +14,7 @@ return n * n * n
     - a func that is received by another function as an argument
 
 4. H.O.F 
-  - A function that accepts another function as an argument inorder to either call or return it.
+  - A function that accepts/retuens another function.
 
 5. IIFE - Imediately Invoked Function Exprress
   - Is an automatically invoked function
